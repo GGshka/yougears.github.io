@@ -1,0 +1,35 @@
+#MrScrollUp div{
+width:149px;
+overflow:hidden;
+position:absolute;
+left:0;
+top:0;
+margin:0;
+padding:0}
+
+#MrScrollUp .MrScrollUp1{
+background:url(img/MrScrollUp.png) no-repeat -149px 0;
+opacity:0;
+height:250px;
+display:none;
+z-index:1}
+#MrScrollUp .MrScrollUp2{
+background:transparent;
+cursor:pointer;
+display:block;
+z-index:2;
+height:150px}
+
+#MrScrollUp{
+z-index:11;
+width:149px;
+height:250px;
+display:block;
+overflow:hidden;
+cursor:default;
+position:fixed;
+right:0;
+top:95%;
+background:url(img/MrScrollUp.png) no-repeat 0 0;
+margin:-125px 0 0;
+padding:0}

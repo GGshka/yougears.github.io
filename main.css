@@ -1,0 +1,62 @@
+﻿body{
+
+
+
+}
+.p-0{
+	padding: 0;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+
+	width: 25px;
+	height: 25px;
+
+}
+
+#matas{
+	padding: 20px;
+	font-size: 36px;
+	color:#FFDBBD;
+	text-shadow: 2px 2px 0 black, 2px 2px 10px black;
+}
+ #rew{
+ 	width: 100px;
+ }
+
+footer{
+	width: 100%;
+	height: auto;
+	background: #363230;
+	margin: 0 auto;
+	text-align: center;
+	padding: 25px;
+}
+
+footer a{
+	color:#FFDBBD;
+	font-size: 14px;
+	margin-left: 10px;
+	text-shadow: 2px 2px 0 black, 2px 2px 10px black;
+}
+
+.graficlogo{
+	width: 75px;
+	height: auto;
+}
+
+.bro{
+	text-align: center;
+	color:#987654;
+	font-size: 36px;
+	margin-left: 10px;
+}
+
+#rack{
+	padding: 0 60px; 
+	font-size: 14px;
+}
+
+.card-body{
+	padding-bottom: 10px;
+}
